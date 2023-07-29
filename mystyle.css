@@ -1,0 +1,8 @@
+.bg{
+    background-image: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: 80%;  
+    background-position: center top;
+    filter: grayscale(20%);
+}
